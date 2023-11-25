@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp3", "WpfApp3\WpfApp3.csproj", "{6550A588-0F2D-492D-AEA1-714B8BD7F993}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login page", "Login page\Login page.csproj", "{95BC5207-9756-420A-BF94-B7D1E6F9D29C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6550A588-0F2D-492D-AEA1-714B8BD7F993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6550A588-0F2D-492D-AEA1-714B8BD7F993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6550A588-0F2D-492D-AEA1-714B8BD7F993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6550A588-0F2D-492D-AEA1-714B8BD7F993}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95BC5207-9756-420A-BF94-B7D1E6F9D29C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95BC5207-9756-420A-BF94-B7D1E6F9D29C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95BC5207-9756-420A-BF94-B7D1E6F9D29C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95BC5207-9756-420A-BF94-B7D1E6F9D29C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0726AEC-3A6B-44CA-9271-2C96A71398B8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,63 @@
+﻿<Window x:Class="layouts.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:layouts"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="400">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100*"></ColumnDefinition>
+            <ColumnDefinition Width="100*"></ColumnDefinition>
+            <ColumnDefinition Width="100*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100*"></RowDefinition>
+            <RowDefinition Height="100*"></RowDefinition>
+            <RowDefinition Height="100*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Button
+          Grid.Row="0"
+            Grid.Column="0"
+            Grid.RowSpan="3" Background="Aquamarine" Grid.ColumnSpan="2" Margin="0,0,133,61">
+        </Button>
+        <Button
+          Grid.Row="0"
+            Grid.RowSpan="2" Background="Aquamarine" Margin="133,0,133,61" RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="3">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+
+        <Button
+            Content="select"
+            Grid.Row="0"
+            Grid.Column="2"></Button>
+
+        <Button
+            Content="select"
+            Grid.Row="1"
+            Grid.Column="2"></Button>
+        <Button
+            Content="select"
+            Grid.Row="2"
+            Grid.Column="2"></Button>
+
+        <Button
+            Content="select"
+            Grid.Row="2"
+            Grid.Column="0"></Button>
+        <Button
+            Content="select"
+            Grid.Row="3"
+            Grid.Column="1"></Button>
+
+    </Grid>
+</Window>

@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "WpfApp1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+      "nativeDebugging": true
+    }
+  }
+}

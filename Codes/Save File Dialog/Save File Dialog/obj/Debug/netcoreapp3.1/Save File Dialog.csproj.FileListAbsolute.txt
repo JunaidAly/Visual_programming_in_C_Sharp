@@ -1,0 +1,16 @@
+C:\Users\Junaid Ali\source\repos\Save File Dialog\Save File Dialog\bin\Debug\netcoreapp3.1\Save File Dialog.exe
+C:\Users\Junaid Ali\source\repos\Save File Dialog\Save File Dialog\bin\Debug\netcoreapp3.1\Save File Dialog.deps.json
+C:\Users\Junaid Ali\source\repos\Save File Dialog\Save File Dialog\bin\Debug\netcoreapp3.1\Save File Dialog.runtimeconfig.json
+C:\Users\Junaid Ali\source\repos\Save File Dialog\Save File Dialog\bin\Debug\netcoreapp3.1\Save File Dialog.runtimeconfig.dev.json
+C:\Users\Junaid Ali\source\repos\Save File Dialog\Save File Dialog\bin\Debug\netcoreapp3.1\Save File Dialog.dll
+C:\Users\Junaid Ali\source\repos\Save File Dialog\Save File Dialog\bin\Debug\netcoreapp3.1\Save File Dialog.pdb
+C:\Users\Junaid Ali\source\repos\Save File Dialog\Save File Dialog\obj\Debug\netcoreapp3.1\Save File Dialog.csproj.AssemblyReference.cache
+C:\Users\Junaid Ali\source\repos\Save File Dialog\Save File Dialog\obj\Debug\netcoreapp3.1\Save_File_Dialog.Form1.resources
+C:\Users\Junaid Ali\source\repos\Save File Dialog\Save File Dialog\obj\Debug\netcoreapp3.1\Save File Dialog.csproj.GenerateResource.cache
+C:\Users\Junaid Ali\source\repos\Save File Dialog\Save File Dialog\obj\Debug\netcoreapp3.1\Save File Dialog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junaid Ali\source\repos\Save File Dialog\Save File Dialog\obj\Debug\netcoreapp3.1\Save File Dialog.AssemblyInfoInputs.cache
+C:\Users\Junaid Ali\source\repos\Save File Dialog\Save File Dialog\obj\Debug\netcoreapp3.1\Save File Dialog.AssemblyInfo.cs
+C:\Users\Junaid Ali\source\repos\Save File Dialog\Save File Dialog\obj\Debug\netcoreapp3.1\Save File Dialog.csproj.CoreCompileInputs.cache
+C:\Users\Junaid Ali\source\repos\Save File Dialog\Save File Dialog\obj\Debug\netcoreapp3.1\Save File Dialog.dll
+C:\Users\Junaid Ali\source\repos\Save File Dialog\Save File Dialog\obj\Debug\netcoreapp3.1\Save File Dialog.pdb
+C:\Users\Junaid Ali\source\repos\Save File Dialog\Save File Dialog\obj\Debug\netcoreapp3.1\Save File Dialog.genruntimeconfig.cache

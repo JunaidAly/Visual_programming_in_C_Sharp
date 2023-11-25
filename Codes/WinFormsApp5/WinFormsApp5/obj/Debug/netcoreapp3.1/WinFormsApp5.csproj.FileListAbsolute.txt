@@ -1,0 +1,16 @@
+C:\Users\Junaid Ali\source\repos\WinFormsApp5\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.exe
+C:\Users\Junaid Ali\source\repos\WinFormsApp5\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.deps.json
+C:\Users\Junaid Ali\source\repos\WinFormsApp5\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.runtimeconfig.json
+C:\Users\Junaid Ali\source\repos\WinFormsApp5\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.runtimeconfig.dev.json
+C:\Users\Junaid Ali\source\repos\WinFormsApp5\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.dll
+C:\Users\Junaid Ali\source\repos\WinFormsApp5\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.pdb
+C:\Users\Junaid Ali\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.csproj.AssemblyReference.cache
+C:\Users\Junaid Ali\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.Form1.resources
+C:\Users\Junaid Ali\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.csproj.GenerateResource.cache
+C:\Users\Junaid Ali\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junaid Ali\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.AssemblyInfoInputs.cache
+C:\Users\Junaid Ali\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.AssemblyInfo.cs
+C:\Users\Junaid Ali\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Junaid Ali\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.dll
+C:\Users\Junaid Ali\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.pdb
+C:\Users\Junaid Ali\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.genruntimeconfig.cache

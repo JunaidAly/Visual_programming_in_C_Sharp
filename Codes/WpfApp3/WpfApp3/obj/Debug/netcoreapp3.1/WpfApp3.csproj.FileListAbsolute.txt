@@ -1,0 +1,29 @@
+C:\Users\Junaid Ali\source\repos\WpfApp3\WpfApp3\bin\Debug\netcoreapp3.1\WpfApp3.exe
+C:\Users\Junaid Ali\source\repos\WpfApp3\WpfApp3\bin\Debug\netcoreapp3.1\WpfApp3.deps.json
+C:\Users\Junaid Ali\source\repos\WpfApp3\WpfApp3\bin\Debug\netcoreapp3.1\WpfApp3.runtimeconfig.json
+C:\Users\Junaid Ali\source\repos\WpfApp3\WpfApp3\bin\Debug\netcoreapp3.1\WpfApp3.runtimeconfig.dev.json
+C:\Users\Junaid Ali\source\repos\WpfApp3\WpfApp3\bin\Debug\netcoreapp3.1\WpfApp3.dll
+C:\Users\Junaid Ali\source\repos\WpfApp3\WpfApp3\bin\Debug\netcoreapp3.1\WpfApp3.pdb
+C:\Users\Junaid Ali\source\repos\WpfApp3\WpfApp3\obj\Debug\netcoreapp3.1\WpfApp3.csproj.AssemblyReference.cache
+C:\Users\Junaid Ali\source\repos\WpfApp3\WpfApp3\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Junaid Ali\source\repos\WpfApp3\WpfApp3\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Junaid Ali\source\repos\WpfApp3\WpfApp3\obj\Debug\netcoreapp3.1\WpfApp3_MarkupCompile.cache
+C:\Users\Junaid Ali\source\repos\WpfApp3\WpfApp3\obj\Debug\netcoreapp3.1\WpfApp3_MarkupCompile.lref
+C:\Users\Junaid Ali\source\repos\WpfApp3\WpfApp3\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Junaid Ali\source\repos\WpfApp3\WpfApp3\obj\Debug\netcoreapp3.1\WpfApp3.g.resources
+C:\Users\Junaid Ali\source\repos\WpfApp3\WpfApp3\obj\Debug\netcoreapp3.1\WpfApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junaid Ali\source\repos\WpfApp3\WpfApp3\obj\Debug\netcoreapp3.1\WpfApp3.AssemblyInfoInputs.cache
+C:\Users\Junaid Ali\source\repos\WpfApp3\WpfApp3\obj\Debug\netcoreapp3.1\WpfApp3.AssemblyInfo.cs
+C:\Users\Junaid Ali\source\repos\WpfApp3\WpfApp3\obj\Debug\netcoreapp3.1\WpfApp3.csproj.CoreCompileInputs.cache
+C:\Users\Junaid Ali\source\repos\WpfApp3\WpfApp3\obj\Debug\netcoreapp3.1\WpfApp3.dll
+C:\Users\Junaid Ali\source\repos\WpfApp3\WpfApp3\obj\Debug\netcoreapp3.1\WpfApp3.pdb
+C:\Users\Junaid Ali\source\repos\WpfApp3\WpfApp3\obj\Debug\netcoreapp3.1\WpfApp3.genruntimeconfig.cache
+C:\Users\Junaid Ali\source\repos\WpfApp3\WpfApp3\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Junaid Ali\source\repos\WpfApp3\WpfApp3\obj\Debug\netcoreapp3.1\Sign_Up.g.cs
+C:\Users\Junaid Ali\source\repos\WpfApp3\WpfApp3\obj\Debug\netcoreapp3.1\Sign_Up.baml
+C:\Users\Junaid Ali\source\repos\WpfApp3\WpfApp3\obj\Debug\netcoreapp3.1\Calculator Windows.g.cs
+C:\Users\Junaid Ali\source\repos\WpfApp3\WpfApp3\obj\Debug\netcoreapp3.1\Calculator Windows.baml
+C:\Users\Junaid Ali\source\repos\WpfApp3\WpfApp3\obj\Debug\netcoreapp3.1\WPFCommonControl.g.cs
+C:\Users\Junaid Ali\source\repos\WpfApp3\WpfApp3\obj\Debug\netcoreapp3.1\WPFCommonControl.baml
+C:\Users\Junaid Ali\source\repos\WpfApp3\WpfApp3\obj\Debug\netcoreapp3.1\GridLayout.g.cs
+C:\Users\Junaid Ali\source\repos\WpfApp3\WpfApp3\obj\Debug\netcoreapp3.1\GridLayout.baml

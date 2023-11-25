@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="COMSATS_new_logo.jpg" />
+    <None Remove="download.jfif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="COMSATS_new_logo.jpg" />'
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,19 @@
+C:\Users\Junaid Ali\source\repos\WpfApp3\Login page\bin\Debug\Login page.exe.manifest
+C:\Users\Junaid Ali\source\repos\WpfApp3\Login page\bin\Debug\Login page.xbap
+C:\Users\Junaid Ali\source\repos\WpfApp3\Login page\bin\Debug\Login page.exe
+C:\Users\Junaid Ali\source\repos\WpfApp3\Login page\bin\Debug\Login page.pdb
+C:\Users\Junaid Ali\source\repos\WpfApp3\Login page\obj\Debug\Login page.csproj.AssemblyReference.cache
+C:\Users\Junaid Ali\source\repos\WpfApp3\Login page\obj\Debug\Page1.g.cs
+C:\Users\Junaid Ali\source\repos\WpfApp3\Login page\obj\Debug\App.g.cs
+C:\Users\Junaid Ali\source\repos\WpfApp3\Login page\obj\Debug\Login page_MarkupCompile.cache
+C:\Users\Junaid Ali\source\repos\WpfApp3\Login page\obj\Debug\Login page_MarkupCompile.lref
+C:\Users\Junaid Ali\source\repos\WpfApp3\Login page\obj\Debug\Page1.baml
+C:\Users\Junaid Ali\source\repos\WpfApp3\Login page\obj\Debug\Login page.g.resources
+C:\Users\Junaid Ali\source\repos\WpfApp3\Login page\obj\Debug\Login_page.Properties.Resources.resources
+C:\Users\Junaid Ali\source\repos\WpfApp3\Login page\obj\Debug\Login page.csproj.GenerateResource.cache
+C:\Users\Junaid Ali\source\repos\WpfApp3\Login page\obj\Debug\Login page.csproj.CoreCompileInputs.cache
+C:\Users\Junaid Ali\source\repos\WpfApp3\Login page\obj\Debug\Login page.TrustInfo.xml
+C:\Users\Junaid Ali\source\repos\WpfApp3\Login page\obj\Debug\Login page.exe.manifest
+C:\Users\Junaid Ali\source\repos\WpfApp3\Login page\obj\Debug\Login page.xbap
+C:\Users\Junaid Ali\source\repos\WpfApp3\Login page\obj\Debug\Login page.exe
+C:\Users\Junaid Ali\source\repos\WpfApp3\Login page\obj\Debug\Login page.pdb

@@ -1,0 +1,14 @@
+C:\Users\Junaid Ali\source\repos\working_of_interface\working_of_interface\bin\Debug\netcoreapp3.1\working_of_interface.exe
+C:\Users\Junaid Ali\source\repos\working_of_interface\working_of_interface\bin\Debug\netcoreapp3.1\working_of_interface.deps.json
+C:\Users\Junaid Ali\source\repos\working_of_interface\working_of_interface\bin\Debug\netcoreapp3.1\working_of_interface.runtimeconfig.json
+C:\Users\Junaid Ali\source\repos\working_of_interface\working_of_interface\bin\Debug\netcoreapp3.1\working_of_interface.runtimeconfig.dev.json
+C:\Users\Junaid Ali\source\repos\working_of_interface\working_of_interface\bin\Debug\netcoreapp3.1\working_of_interface.dll
+C:\Users\Junaid Ali\source\repos\working_of_interface\working_of_interface\bin\Debug\netcoreapp3.1\working_of_interface.pdb
+C:\Users\Junaid Ali\source\repos\working_of_interface\working_of_interface\obj\Debug\netcoreapp3.1\working_of_interface.csproj.AssemblyReference.cache
+C:\Users\Junaid Ali\source\repos\working_of_interface\working_of_interface\obj\Debug\netcoreapp3.1\working_of_interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junaid Ali\source\repos\working_of_interface\working_of_interface\obj\Debug\netcoreapp3.1\working_of_interface.AssemblyInfoInputs.cache
+C:\Users\Junaid Ali\source\repos\working_of_interface\working_of_interface\obj\Debug\netcoreapp3.1\working_of_interface.AssemblyInfo.cs
+C:\Users\Junaid Ali\source\repos\working_of_interface\working_of_interface\obj\Debug\netcoreapp3.1\working_of_interface.csproj.CoreCompileInputs.cache
+C:\Users\Junaid Ali\source\repos\working_of_interface\working_of_interface\obj\Debug\netcoreapp3.1\working_of_interface.dll
+C:\Users\Junaid Ali\source\repos\working_of_interface\working_of_interface\obj\Debug\netcoreapp3.1\working_of_interface.pdb
+C:\Users\Junaid Ali\source\repos\working_of_interface\working_of_interface\obj\Debug\netcoreapp3.1\working_of_interface.genruntimeconfig.cache

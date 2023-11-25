@@ -1,0 +1,8 @@
+C:\Users\Junaid Ali\source\repos\Linq to Sql\Linq to Sql\obj\Debug\net5.0-windows\Linq to Sql.csproj.AssemblyReference.cache
+C:\Users\Junaid Ali\source\repos\Linq to Sql\Linq to Sql\obj\Debug\net5.0-windows\Linq_to_Sql.Linq_form.resources
+C:\Users\Junaid Ali\source\repos\Linq to Sql\Linq to Sql\obj\Debug\net5.0-windows\Linq_to_Sql.Properties.Resources.resources
+C:\Users\Junaid Ali\source\repos\Linq to Sql\Linq to Sql\obj\Debug\net5.0-windows\Linq to Sql.csproj.GenerateResource.cache
+C:\Users\Junaid Ali\source\repos\Linq to Sql\Linq to Sql\obj\Debug\net5.0-windows\Linq to Sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junaid Ali\source\repos\Linq to Sql\Linq to Sql\obj\Debug\net5.0-windows\Linq to Sql.AssemblyInfoInputs.cache
+C:\Users\Junaid Ali\source\repos\Linq to Sql\Linq to Sql\obj\Debug\net5.0-windows\Linq to Sql.AssemblyInfo.cs
+C:\Users\Junaid Ali\source\repos\Linq to Sql\Linq to Sql\obj\Debug\net5.0-windows\Linq to Sql.csproj.CoreCompileInputs.cache

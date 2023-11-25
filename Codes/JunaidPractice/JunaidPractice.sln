@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JunaidPractice", "JunaidPractice\JunaidPractice.csproj", "{2EB760D6-419E-4881-9A86-A761E1A0B82F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EB760D6-419E-4881-9A86-A761E1A0B82F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EB760D6-419E-4881-9A86-A761E1A0B82F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EB760D6-419E-4881-9A86-A761E1A0B82F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EB760D6-419E-4881-9A86-A761E1A0B82F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8C9B3F8-12D2-4A0D-BABC-FD8E563C083B}
+	EndGlobalSection
+EndGlobal

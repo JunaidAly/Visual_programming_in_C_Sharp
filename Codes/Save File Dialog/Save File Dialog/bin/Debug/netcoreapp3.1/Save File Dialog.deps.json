@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Save File Dialog/1.0.0": {
+        "runtime": {
+          "Save File Dialog.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Save File Dialog/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

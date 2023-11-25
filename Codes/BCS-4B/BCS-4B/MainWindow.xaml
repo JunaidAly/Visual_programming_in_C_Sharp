@@ -1,0 +1,17 @@
+﻿<Window x:Class="BCS_4B.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BCS_4B"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="705" Width="800">
+    <Grid Margin="0,0,345,180">
+        <TextBlock x:Name="User_Name" HorizontalAlignment="Left" Margin="106,46,0,0" TextWrapping="Wrap" Text="User Name" VerticalAlignment="Top" Height="22" Width="66"/>
+        <TextBox HorizontalAlignment="Left" Margin="210,50,0,0" TextWrapping="Wrap" Text="Enter the user name" VerticalAlignment="Top" Width="120"/>
+        <TextBlock HorizontalAlignment="Left" Margin="106,95,0,0" TextWrapping="Wrap" Text="Password" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="210,95,0,0" TextWrapping="Wrap" Text="Enter the Password" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Sign Up" HorizontalAlignment="Left" Margin="247,155,0,0" VerticalAlignment="Top" RenderTransformOrigin="2.592,0.152"/>
+
+    </Grid>
+</Window>

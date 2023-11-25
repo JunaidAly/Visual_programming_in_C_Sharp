@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="1.jpg" />
+    <None Remove="1_IC54fDQ50bHMjUtBm6lfgQ.jpeg" />
+    <None Remove="2.jpg" />
+    <None Remove="28279099.jpg" />
+    <None Remove="download.jpg" />
+    <None Remove="images.jpg" />
+    <None Remove="img.jpg.jpg" />
+    <None Remove="istockphoto-1297780288-170667a.jpg" />
+    <None Remove="login-logo-png-6.png" />
+    <None Remove="picture sample.png" />
+    <None Remove="pngtree-building-and-construction-logo-design-template-image_317780.jpg" />
+    <None Remove="Screenshot 2022-03-29 101825.png" />
+    <None Remove="security-password-icon-trendy-flat-260nw-1456069958.webp" />
+    <None Remove="sign up background.jpg" />
+    <None Remove="sign up logo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="1.jpg" />
+    <Resource Include="1_IC54fDQ50bHMjUtBm6lfgQ.jpeg" />
+    <Resource Include="2.jpg" />
+    <Resource Include="28279099.jpg" />
+    <Resource Include="download.jpg" />
+    <Resource Include="images.jpg" />
+    <Resource Include="img.jpg.jpg" />
+    <Resource Include="istockphoto-1297780288-170667a.jpg" />
+    <Resource Include="login-logo-png-6.png" />
+    <Resource Include="picture sample.png" />
+    <Resource Include="pngtree-building-and-construction-logo-design-template-image_317780.jpg" />
+    <SplashScreen Include="Screenshot 2022-03-29 101825.png" />
+    <Resource Include="security-password-icon-trendy-flat-260nw-1456069958.webp" />
+    <Resource Include="sign up background.jpg" />
+    <Resource Include="sign up logo.png" />
+  </ItemGroup>
+
+</Project>
